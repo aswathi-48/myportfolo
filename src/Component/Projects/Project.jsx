@@ -1,7 +1,7 @@
 import React from 'react'
 import projects from "../../data/project.json"
 import ProjectCard from './ProjectCard';
-import styles from "./project.module.css"
+import styles from "./Project.module.css"
 
 const Project = () => {
   return (
